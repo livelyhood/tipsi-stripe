@@ -54,6 +54,10 @@
 - Added .circleci config
 - Added eslint & prettier config
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> master
 ## [7.5.0] - 2019-04-22
 
 - [Google pay: capture email](https://github.com/tipsi/tipsi-stripe/pull/469)
